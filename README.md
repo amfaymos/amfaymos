@@ -1,4 +1,4 @@
-- 👋 Hi, I @amfaymos
+- 👋 Hey there.
 - 👀 I’m interested in web development, Programming in java
 - 🌱 I’m currently learning Full stack Wed Development
 - 💞️ I’m looking to collaborate on open source projects
