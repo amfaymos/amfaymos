@@ -41,5 +41,6 @@ if you like what i do, maybe consider buying me a
   
   </br>
 
+### Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
