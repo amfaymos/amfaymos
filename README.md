@@ -43,7 +43,7 @@ if you like what i do, maybe consider buying me a
 
 <!-- ### Coding Stats -->
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> 
 
 ### GitHub Stats
 
