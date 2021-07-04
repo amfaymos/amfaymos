@@ -36,11 +36,12 @@ if you like what i do, maybe consider buying me a
 
 <br />
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amfaymos&show_icons=true&theme=gotham" alt="amfaymos" />
-  
-  </br>
-
 ### Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+### GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amfaymos&show_icons=true&theme=gotham" alt="amfaymos" />
+  
+ 
