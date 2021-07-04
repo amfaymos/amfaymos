@@ -38,9 +38,6 @@ if you like what i do, maybe consider buying me a
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-<a href="https://github.com/amfaymos/github-readme-stats">
-  <img align="center" src="@amfaymos&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@amfaymos&compact=True"/>
-</a>
 <!--END_SECTION:waka-->
 
 ### GitHub Stats
