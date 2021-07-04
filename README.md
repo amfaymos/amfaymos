@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 👀 I’m a front-end web developer
-- 🌱 I’m currently learning Full stack Wed Development
+- 🌱 I’m currently learning Full stack Web Development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 any freelance work? do reach, [email](mailto:amfaymos@gmail.com) :)
 - 💬 let's connect and have a conversation <a href="https://www.instagram.com/mostofa.faysal/"> 🗨️</a>
