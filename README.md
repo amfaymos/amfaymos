@@ -43,7 +43,7 @@ if you like what i do, maybe consider buying me a
 
 
 <!--START_SECTION:waka-->
-📊 ### Coding Stats
+📊 Coding Stats
 
 ```text
 ⌚︎ Time Zone: Central Canada
@@ -53,7 +53,6 @@ HTML                     2 mins              ███████████�
 CSS                      2 mins              ████████████░░░░░░░░░░░░░   48.72%
 
 ```
-
 
  Last Updated on 05/07/2021
 <!--END_SECTION:waka--> 
