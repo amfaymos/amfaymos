@@ -43,6 +43,23 @@ if you like what i do, maybe consider buying me a
 
 <!-- ### Coding Stats -->
 <!--START_SECTION:waka-->
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+JavaScript               25 mins             █████████████████████████   99.78% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+
+🔥 Editors: 
+VS Code                  25 mins             █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 04/07/2021
 <!--END_SECTION:waka--> 
 
 ### GitHub Stats
