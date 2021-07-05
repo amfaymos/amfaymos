@@ -40,10 +40,10 @@ if you like what i do, maybe consider buying me a
 
 
 <br />
+<hr/>
 
-
+### Coding Stats
 <!--START_SECTION:waka-->
-📊 Coding Stats
 
 ```text
 ⌚︎ Time Zone: Central Canada
