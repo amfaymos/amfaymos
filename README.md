@@ -61,18 +61,15 @@ if you like what i do, maybe consider buying me a
 ⌚︎ Time Zone: America/Winnipeg
 
 💬 Programming Languages: 
-JavaScript               1 min               ███████████░░░░░░░░░░░░░░   43.51% 
-Git Config               0 secs              ███████░░░░░░░░░░░░░░░░░░   29.51% 
-JSX                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.51% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka--> 
 
 ### GitHub Stats
