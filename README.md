@@ -61,15 +61,15 @@ if you like what i do, maybe consider buying me a
 ⌚︎ Time Zone: America/Winnipeg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      14 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/10/2021
+ Last Updated on 26/10/2021
 <!--END_SECTION:waka--> 
 
 ### GitHub Stats
