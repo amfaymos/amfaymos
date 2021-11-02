@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - ### hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=amfaymos.amfaymos)
 - 👀 I’m Mostofa
-- 🌱 I’m currently learning Front-end Web Development
+- 🌱 I’m a front-end designer and currently learning PHP.
 - 👾 I’m looking to collaborate on open source projects
 - 📫 any freelance work? do reach via [email](mailto:amfaymos@gmail.com) :)
 - 🌐 Visit my website <a href="https://www.mostofafaysal.com/">MostofaFaysal</a>
