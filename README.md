@@ -26,7 +26,7 @@ if you like what i do, maybe consider buying me a
   <img align="left" alt="Mostofa Faysal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/mostofa.faysal/">
+<a href="https://www.instagram.com/amfaymos.io/">
   <img align="left" alt="Mostofa Faysal" width="22px" src="https://github.com/amfaymos/amfaymos/blob/main/instagram.png" />
 </a>
 
