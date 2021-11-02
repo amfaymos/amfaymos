@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning Front-end Web Development
 - 👾 I’m looking to collaborate on open source projects
 - 📫 any freelance work? do reach via [email](mailto:amfaymos@gmail.com) :)
-- 💬 let's connect and have a conversation <a href="https://www.instagram.com/mostofa.faysal/"></a>
-- 🌐 Visit my website <a href="https://www.mostofafaysal.com/"></a>
+- 🌐 Visit my website <a href="https://www.mostofafaysal.com/">MostofaFaysal</a>
 
  </br>
 if you like what i do, maybe consider buying me a 
@@ -27,7 +26,7 @@ if you like what i do, maybe consider buying me a
   <img align="left" alt="Mostofa Faysal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/in/mostofa.faysal/">
+<a href="https://www.instagram.com/mostofa.faysal/">
   <img align="left" alt="Mostofa Faysal" width="22px" src="https://github.com/amfaymos/amfaymos/blob/main/instagram.png" />
 </a>
 
