@@ -44,7 +44,7 @@ if you like what i do, maybe consider buying me a
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2013%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,7 +71,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/08/2022 18:49:18 UTC
+ Last Updated on 17/08/2022 18:48:29 UTC
 <!--END_SECTION:waka--> 
 
 ### GitHub Stats
