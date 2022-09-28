@@ -44,7 +44,7 @@ if you like what i do, maybe consider buying me a
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2040%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -63,18 +63,16 @@ if you like what i do, maybe consider buying me a
 ⌚︎ Time Zone: America/Winnipeg
 
 💬 Programming Languages: 
-Java                     2 hrs 18 mins       ███████████████████████░░   94.0% 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+Java                     2 hrs               ███████████████████████░░   95.36% 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/09/2022 18:59:33 UTC
+ Last Updated on 28/09/2022 18:57:54 UTC
 <!--END_SECTION:waka--> 
 
 ### GitHub Stats
