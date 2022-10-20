@@ -63,15 +63,15 @@ if you like what i do, maybe consider buying me a
 ⌚︎ Time Zone: America/Winnipeg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/10/2022 19:05:58 UTC
+ Last Updated on 20/10/2022 19:06:22 UTC
 <!--END_SECTION:waka--> 
 
 ### GitHub Stats
