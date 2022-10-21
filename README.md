@@ -44,7 +44,7 @@ if you like what i do, maybe consider buying me a
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2015%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,7 +71,7 @@ VS Code                  2 mins              ███████████�
 ```
 
 
- Last Updated on 20/10/2022 19:06:22 UTC
+ Last Updated on 21/10/2022 18:58:40 UTC
 <!--END_SECTION:waka--> 
 
 ### GitHub Stats
