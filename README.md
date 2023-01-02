@@ -46,32 +46,8 @@ if you like what i do, maybe consider buying me a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2052%20mins-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-🌆 Daytime    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-🌃 Evening    40 commits     ███████████████████░░░░░░   76.92% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Winnipeg
-
-💬 Programming Languages: 
-Java                     36 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 02/11/2022 18:48:10 UTC
+ Last Updated on 02/01/2023 18:37:59 UTC
 <!--END_SECTION:waka--> 
 
 ### GitHub Stats
