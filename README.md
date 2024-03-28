@@ -21,20 +21,6 @@ if you like what I do, maybe consider buying me a
 </br>--->
 
 
-  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href="https://www.linkedin.com/in/mostofa-faysal/">
-  <img align="left" alt="Mostofa Faysal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/amfaymos.io/">
-  <img align="left" alt="Mostofa Faysal" width="22px" src="https://github.com/amfaymos/amfaymos/blob/main/instagram.png" />
-</a>
-
-<a href="https://twitter.com/amfaymos">
-  <img align="left" alt="Mostofa Faysal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-
 <br />
 <hr/>
 
