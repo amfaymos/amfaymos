@@ -7,18 +7,18 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="GIF" src="https://github.com/amfaymos/amfaymos/blob/main/catmood.gif?raw=true" width="500" height="325" />
   
 
-- ### hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=amfaymos.amfaymos)
+- ### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=amfaymos.amfaymos)
 - 👀 I’m Mostofa
-- 🌱 I’m a front-end designer and currently learning PHP.
+- 🌱 I’m a front-end designer and currently learning Java.
 - 👾 I’m looking to collaborate on open source projects
 - 📫 any freelance work? do reach via [email](mailto:amfaymos@gmail.com) :)
 - 🌐 Visit my website <a href="https://www.mostofafaysal.com/">MostofaFaysal</a>
 
- </br>
+ <!--</br>
 if you like what i do, maybe consider buying me a 
 <a href="https://www.buymeacoffee.com/amfaymos" target="_blank">coffee</a> ☕
 
-</br>
+</br>--->
 
 
   <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
