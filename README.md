@@ -28,6 +28,8 @@ if you like what I do, maybe consider buying me a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2052%20mins-blue)
 
+<figure><embed src="https://wakatime.com/share/@amfaymos/c3975b00-5ce8-4362-8332-3acb042560fb.svg"></embed></figure>
+
 
  Last Updated on 02/01/2023 18:37:59 UTC
 <!--END_SECTION:waka--> 
