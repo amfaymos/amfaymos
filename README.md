@@ -29,6 +29,8 @@ if you like what I do, maybe consider buying me a
 
 <figure><embed src="https://wakatime.com/share/@amfaymos/c3975b00-5ce8-4362-8332-3acb042560fb.svg"></embed></figure>
 
+<figure><embed src="https://wakatime.com/share/@amfaymos/ed4292a7-ae21-4650-8584-fc3cf87183a2.svg"></embed></figure>
+
 
  Last Updated on 02/01/2023 18:37:59 UTC
 <!--END_SECTION:waka--> 
